@@ -1,0 +1,13 @@
+name: shinyApp
+title: shinyApp
+username:
+account: starwarsexplorer
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 5509367
+bundleId: 5507352
+url: https://starwarsexplorer.shinyapps.io/shinyApp/
+when: 1643137472.54267
+lastSyncTime: 1643137472.54267
+asMultiple: FALSE
+asStatic: FALSE
